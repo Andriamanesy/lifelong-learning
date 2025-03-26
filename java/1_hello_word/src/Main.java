@@ -1,8 +1,6 @@
-public class Main
-{
-	public static void main(String argc[])
-	{
-		System.out.println("Hello vim & java");
+public class Main {
+	public static void main(String argc[]) {
+		System.out.println("Hello Ambanja");
 	}
 
 }
